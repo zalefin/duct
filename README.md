@@ -5,7 +5,7 @@
 # duct
 A p2p file transfer tool to launch files back and fourth between two synced directories.
 
-Requires *libcurl*!
+Requires **libcurl**!
 
 ## Usage
 CONTENT
