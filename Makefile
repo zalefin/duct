@@ -2,8 +2,7 @@ CC=clang
 
 all: duct registrar
 
-duct:
-	clang duct.c -o duct
+duct: duct.c
 
 registrar: registrar.c
 
