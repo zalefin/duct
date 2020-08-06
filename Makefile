@@ -1,10 +1,10 @@
 CC=clang
 
-all: duct registrar
+all: duct holepuncher
 
 duct: duct.c
 
-registrar: registrar.c
+holepuncher: holepuncher.c
 
 clean:
 	rm -f duct *.o
